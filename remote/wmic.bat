@@ -1,0 +1,1 @@
+wmic process where name='pycharm64.exe' call terminate
